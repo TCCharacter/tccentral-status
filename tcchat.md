@@ -1,7 +1,7 @@
 #### Service is planned next, remaining tasks:
-2. Setting up **conversation storage** systems
-3. Setting up webui **interface** for chat windows
-4. **Customising** webui interface
-5. Exposing system **API**
-6. Deploying **interface** through subdomain
-7. Setting up **permissions**
+1. Setting up **conversation storage** systems
+2. Setting up webui **interface** for chat windows
+3. **Customising** webui interface
+4. Exposing system **API**
+5. Deploying **interface** through subdomain
+6. Setting up **permissions**
